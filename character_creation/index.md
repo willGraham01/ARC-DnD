@@ -17,7 +17,7 @@ Due to the wealth of class options available - even at level 1 - we can't go int
 But a good idea is to write all of your class and race features that don't fall under one of the nice categories on the character sheet on a separate sheet of paper, and bring that along with you when you play.
 That way, you'll have everything you need in one place when you turn up to play!
 
-## Quickstart guide
+## Customisation Options and Quickstart guide
 
 If you're a character creation veteran, you can head straight to our [creation guidelines](./creation-guidelines.md) which lists the customisation options and sources that we use when creating our characters.
 Although if you want to give the guide a quick read through and provide feedback, you are more than welcome to!
@@ -30,7 +30,7 @@ We also run the content of this guide as an intro session occasionally, so if yo
 Character Creation Overview:
 
 1. Preliminaries: what do I need to consider and know?
-2. Ability Scores and Feats
+2. Ability Scores
 3. Class
 4. Race
 5. Background / Origin
