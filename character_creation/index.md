@@ -43,6 +43,6 @@ Character Creation Overview:
 
 ## [Classes and Races Summary](./classes-and-races-summary.md)
 
-We've [compiled a page](./classes-and-races-summary.md) with a quick reference guide to the various classes, subclasses, and races that are available to players.
+We've [compiled a page](./classes-and-races-summary.md) with a quick reference guide to the various classes and races that are available to players.
 Head there if you want a bit more information (both descriptive and mechanics-focused) on the topics above.
 If you're completely new to character creation, we'd recommend that you read the flavour text for the classes and races so you have something to base your first decisions off of.
