@@ -53,6 +53,7 @@ You can read more about them in the table below, and the additional columns are 
 
 | Class | Description | Mechanical Description | Complexity |
 |-------|-------------|------------------------|----------|
+| Artificer | Masters of invention, who imbue mundane objects to make them magical - and animate. | A blend of magical tools to use from range and supporting options in the form of robot companions or firearms. Outside of combat, they are keen investigators and mechanics. | B+ |
 | Barbarian | Fierce warriors of primitive backgrounds, who enter a battle rage. | Hit hard in melee and can take a lot of hits. Outside of a fight, they provide the party with survival tactics, tracking, and coercion. | C |
 | Bard | Inspiring magicians whose power comes from the music of creation. | Access to a wealth of spells and abilities to help their allies in and out of combat. Normally the life of the party in social situations. | A |
 | Cleric | A priest who wields holy magic in service to a god. | Spellcasters that focus on healing their allies, debuffing enemies and controlling the battle. Can also get stuck in with a weapon if they fancy. | A |
