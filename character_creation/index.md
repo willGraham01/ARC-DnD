@@ -33,13 +33,14 @@ Don't worry too much about the mechanics, just look for the flavour that appeals
 
 Character Creation Overview:
 
-1. Preliminaries: what do I need to consider and know?
-2. Ability Scores
-3. Class
-4. Race
-5. Background / Origin
-6. Equipment
-7. Personality and Bonds
+1. [Preliminaries: what do I need to consider and know?](./guide/preliminaries.md)
+2. [Ability Scores](./guide/ability-scores.md)
+3. [Class](./guide/class.md)
+4. [Race](./guide/race.md)
+5. [Background / Origin](./guide/background.md)
+6. [Equipment](./guide/equipment.md)
+7. [Personality and Bonds](./guide/equipment.md)
+8. [Wrap up](./guide/conclusion.md)
 
 ## [Classes and Races Summary](./classes-and-races-summary.md)
 
