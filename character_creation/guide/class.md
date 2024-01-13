@@ -71,6 +71,16 @@ If you're not sure what to prioritise after your classes' important stats, you c
 - Warlock: CHA, then CON. If you plan to get involved in melee, you might also want a decent DEX.
 - Wizard: INT, then CON.
 
+### Improving Ability Scores
+
+As you level up in a particular class, you will be granted Ability Score Improvements (ASIs) when you reach certain levels.
+These will let you further improve one or more of your ability scores, to a maximum of 20.
+So don't worry if your ability scores don't give you the biggest bonuses right at the start - this is completely normal!
+
+You don't have to improve the ability scores that are recommended for your class, but it's normally best to.
+If they're already at the maximum though, or an important ability score is at an odd number, you can also use this chance to take a "feat" - these are a selection of abilities that you can choose from.
+If you want to take a feat, look through the list in the Player's Handbook and ask the DM if it's OK (it probably is, but just make sure).
+
 ## Record your Class Skills and Abilities
 
 The first level in a class also provides you with a number of initial proficiencies; in some combination of skills, weapons, and armour.
@@ -91,6 +101,21 @@ Your class also tells you how to calculate your hit point maximum at level 1, an
 Finally, write down any class features that you get given at level 1.
 Some of these will give you a choice (like "fighting style"), others will just give you a small boost.
 If an ability has a limited number of uses, make sure to write that down too.
+
+If one of your class features lets you learn a language, write that in the languages box on your character sheet.
+
+## Pick Spells
+
+If your class gets access to spells and spell slots at level 1, pick from the selection that it offers.
+Write down how many spell slots you have, and the spells you know, on your character sheet.
+
+With spells, there's normally a whole wealth to choose from and it can be overwhelming.
+In general;
+
+- If you have access to cantrips, you want at least one cantrip that does damage.
+- If you have access to level 1 or higher spells, you'll need to pick those as well.
+  - There's no catch-all way to decide this, but generally you want to make sure you have one damaging spell for every spell slot level.
+  - Otherwise, pick the spells that sound cool, both in or out of combat. Damage isn't the only way magic can help in your adventures.
 
 ## Take Note of the Starting Equipment
 
