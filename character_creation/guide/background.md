@@ -70,6 +70,7 @@ When we meet Erik, he is in his mid 20s having joined the ranger conclave at 18.
 His preconceptions of an exciting, adventurous lifestyle have been checked by the reality of survival in the wilderness and the deadliness of combat.
 The ranger lifestyle is more one of individuals who cooperate when they happen to be working towards the same objective or tracking the same bounty, rather than a coherent regiment that travels together.
 Perhaps more worryingly, Erik now realises the binding nature of his promise in front of the fey spirits - entering into a deal with the fey is often binding, even if entering unknowingly.
+As such, he is more bound to this manner of existence that perhaps he would like - having to heed the call of fey when they require assistance in whatever machinations they have going, and otherwise left to survive until needed again.
 
 ### Background Mechanics
 

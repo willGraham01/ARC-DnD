@@ -31,6 +31,12 @@ It's possible that your race and class might give you access to the _same_ skill
 In which case, you might want to go back and swap around the skills that you take from your class.
 It's also very common for them to provide some overlap in armour, weapon, and tool proficiencies too - these tend to be unavoidable so don't worry too much about them.
 
+## Record your Speed
+
+Your race determines your starting speed (how far you can move in combat).
+Make sure you write this down in the "speed" box on your character sheet.
+Your class might later improve this speed.
+
 ## Record any Racial Features or Spells
 
 Finally, your race might provide some special features (like the half-orc's "relentless") or some innate spellcasting (like the tiefling's "hellish rebuke").
@@ -54,6 +60,8 @@ For his extra skill proficiency, he'll choose Animal Handling and check the appr
 For his feat, Erik will take the "Dual Wielder" feat - he writes it's name down in the features and traits box, then copies the text from the feat onto his spare sheet of paper for reference.
 
 For his two +1 increases, Erik puts them into `TODO:FIX ME AFTER ARC INTRO SESSION`!
+
+Humans start with a speed of 30 (ft), which Erik records.
 
 Humans don't get any spellcasting abilities from their race, so Erik skips over this part.
 
