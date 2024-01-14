@@ -27,6 +27,10 @@ Your race might give you some combination of skill, weapon, armour, skill, or to
 It might also make you fluent in one or more languages.
 Make sure to write these down on your character sheet.
 
+It's possible that your race and class might give you access to the _same_ skill proficiencies.
+In which case, you might want to go back and swap around the skills that you take from your class.
+It's also very common for them to provide some overlap in armour, weapon, and tool proficiencies too - these tend to be unavoidable so don't worry too much about them.
+
 ## Record any Racial Features or Spells
 
 Finally, your race might provide some special features (like the half-orc's "relentless") or some innate spellcasting (like the tiefling's "hellish rebuke").
@@ -34,6 +38,24 @@ Record these features in the usual features and abilities section.
 
 If you get some spells as part of your race, write them down in the spells section of your character sheet.
 Make sure you indicate that these spells come from your race - this is so you don't later confuse them with the ones you get from your class!
+
+### Example: Erik's Race
+
+Erik is a human.
+Humans start of knowing how to speak Common, plus one other language of their choice - the Player's Handbook recommends this be the language of a race your character frequently visited or lived with.
+
+Humans can then choose between either:
+
+- +1 to all their ability scores, or
+- +1 to 2 of their ability scores, a skill proficiency, and a feat.
+
+Erik picks Dwarven for his extra language, and puts that plus Common into his language box (he would have taken Elvish, but he already has that from his class choices).
+For his extra skill proficiency, he'll choose Animal Handling and check the appropriate skill box on his character sheet.
+For his feat, Erik will take the "Dual Wielder" feat - he writes it's name down in the features and traits box, then copies the text from the feat onto his spare sheet of paper for reference.
+
+For his two +1 increases, Erik puts them into `TODO:FIX ME AFTER ARC INTRO SESSION`!
+
+Humans don't get any spellcasting abilities from their race, so Erik skips over this part.
 
 ## [Next: Creating your Background](./background.md)
 

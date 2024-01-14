@@ -11,12 +11,22 @@ If you haven't decided on a class yet, check [our short summary](../classes-and-
 We're presenting choosing your class as the first thing that you should do when building your character.
 Mechanically, this is because it's the easiest thing to do - choose a class (arguably the most important gameplay mechanic), then your race (second most), and then everything else.
 It also means that you can build your character's personality and backstory _around_ the race and class that you choose later on.
-However, this is by no means the only way to build a character - you might have a cool idea for their backstory, in which case this might influence the class you pick for them.
+
+However, this is by no means the only way to build a character - you might have an idea for their backstory, in which case this might influence the class you pick for them.
 There is no "right answer" when it comes to the order of tasks when creating your character, so long as you remember to do everything.
+
+### Example: Erik Wendell
+
+As we go through this guide we will be building the character of Erik Wendell.
+Erik was the first character concept that one of our DMs had when they starting playing, inspired by their most recent run through playing Skyrim.
+Erik's fighting style was chosen to emulate the style that they had been using in that game, and from there a class and backstory was formed around the core concept.
+
+Each section will have an example illustrated by filling in the details on Erik's character sheet.
 
 ## Pick Your Class
 
 Pick your class from the list of classes available, and write it down in the space provided on your character sheet.
+You're starting out at level 1, so write a 1 next to your class.
 
 ### Subclasses
 
@@ -37,6 +47,12 @@ For example, at level 1 Warlocks get their subclass ("otherworldly patron") and 
 Fighters meanwhile, don't get their subclass ("martial archetype") until level 3.
 So they just write their class as "Fighter".
 When they later _get_ their subclass, they update this with the option that they chose.
+
+### Example: Erik's Class
+
+Erik is going to be a Ranger, so he writes Ranger - 1 in the class box on his character sheet.
+
+Rangers don't get their subclass until level 3, so Erik doesn't have to worry about recording that yet.
 
 ## Assign Your Ability Scores
 
@@ -81,10 +97,26 @@ You don't have to improve the ability scores that are recommended for your class
 If they're already at the maximum though, or an important ability score is at an odd number, you can also use this chance to take a "feat" - these are a selection of abilities that you can choose from.
 If you want to take a feat, look through the list in the Player's Handbook and ask the DM if it's OK (it probably is, but just make sure).
 
+### Example: Erik's Ability Scores
+
+TODO: Fill with ARC standard array values!
+
+Erik is going to be a melee-focused ranger, so he makes his highest ability score DEX at `<value>`.
+Next, he puts the `<value>` into CON to give himself a bit more survivability.
+He follows this up with `<value>` into WIS since he might still need it for casting spells in a pinch.
+The remaining ability scores of `<VALUES>` he puts into `<X, Y, Z>` respectively:
+
+- List of
+- why 
+- this order
+- if any
+
 ## Record your Class Skills and Abilities
 
 The first level in a class also provides you with a number of initial proficiencies; in some combination of skills, weapons, and armour.
 Some classes might even offer tools as a proficiency.
+
+Your class will also tell your your initial proficiency bonus, and how it improves as you level up - make sure to record this at the top of your character sheet.
 
 Pick from the list of skills offered to your class (usually you have to choose from a selection) and mark them down on your character sheet.
 
@@ -96,6 +128,31 @@ Your class also tells you how to calculate your hit point maximum at level 1, an
 - Write your hit point maximum in the box provided.
 - Write down your hit dice in the hit dice box. You'll only have 2, but the _type_ of dice (d6, d8, d10, d12) is what's important.
 
+Finally, record the proficiencies in weapons and armour that your class provides you in the smaller "other proficiencies and languages" box.
+You should also mark the _saving throw_ proficiencies that your class provides - you'll want to make sure you have those!
+
+### Example: Erik's Class Skills
+
+Starting as a Ranger, Erik gets to pick three skills from a list of: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival.
+
+Since he's going to be melee focused, he picks Athletics to generally help out when physical strength is required.
+He also picks Perception so he's more alert to danger, and Survival so he can help out his friends whilst in the wilderness.
+
+The proficiency bonus for level 1 characters is +2, so Erik writes this into the proficiency bonus box.
+
+The Ranger hit dice is a d10, which Erik records on his character sheet.
+His max HP is calculated as 10 + CON modifier at first level, giving him a total of `TODO:value!` at level 1, which he writes down.
+
+Being a Ranger gives Erik proficiency in:
+
+- Light and medium armour,
+- Shields,
+- Simple and martial weapons
+
+He doesn't get any tool proficiencies from his class.
+
+He does get STR and DEX saving throw proficiencies though, which he checks in the corresponding saving throws box.
+
 ## Record your Class Features
 
 Finally, write down any class features that you get given at level 1.
@@ -103,6 +160,13 @@ Some of these will give you a choice (like "fighting style"), others will just g
 If an ability has a limited number of uses, make sure to write that down too.
 
 If one of your class features lets you learn a language, write that in the languages box on your character sheet.
+
+### Example: Erik's Class Features
+
+At level 1, Rangers get two features from their class; Favoured Foe and Deft Explorer.
+
+- Favoured Foe lets Erik do a little extra damage to one enemy in combat, a certain number of times per long rest (long rest is essentially a day). He writes the name of the ability in the "features and traits" section of his character sheet. He also notices that it can be used "a number of times equal to your proficiency bonus before a long rest" - in this case, 2 times per long rest, so he puts two checkboxes next to the ability so he can keep track of them. Finally, he writes the text corresponding to the ability on his spare sheet of paper.
+- Deft Explorer gives Erik _expertise_ in one of his skill proficiencies, as well as fluency in two additional languages of his choice. Erik chooses to put his expertise into Perception, so marks that with a _double tick_ in the appropriate skill checkbox - this indicates that his proficiency bonus is doubled when making a Perception check. Finally, he picks two languages to learn - which he chooses to be Sylvan and Elvish - and writes them into his languages box. Again, he copies Deft Explorer onto his spare sheet of paper for later reference.
 
 ## Pick Spells
 
@@ -117,13 +181,14 @@ In general;
   - There's no catch-all way to decide this, but generally you want to make sure you have one damaging spell for every spell slot level.
   - Otherwise, pick the spells that sound cool, both in or out of combat. Damage isn't the only way magic can help in your adventures.
 
+### Example: Erik's Spells
+
+Rangers don't get any spells at level 1, so Erik ignores this part of the character sheet.
+When he next levels up, he will have to start keeping track of spells.
+
 ## Take Note of the Starting Equipment
 
 Your class also provides you with some starting equipment, but we'll do this all at once at the end of character creation.
-
-## Example
-
-TODO: Fill out during the live session!
 
 ## [Next: Choosing Your Race](./race.md)
 
