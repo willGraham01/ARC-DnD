@@ -55,6 +55,48 @@ From his background, Erik still wears his family ring - not anything expensive b
 Other than that, he has a pack of cards and a traveller's dragonchess set, which he uses to pass the time between jobs.
 He might also have a few scraps of paper lying around; some blank to be used as letters, some old bounty posters, some letters from his family that he's still in touch with.
 
+## Filling in your Attacks and Armour Class
+
+At this point, you can fill in the "attacks and spellcasting" box with a list of all the various means your character has of attacking someone.
+There is no need to record _every way_ - spells in particular you'll likely want to leave off this list since there are a lot of them.
+
+Go through your character's gear and look for weapons that they are proficient in.
+If they can cast spells and have a spell attack modifier, you might also want to put that in this list for quick reference.
+
+For each method of attacking, write a row in the "attacks and spellcasting" box that:
+
+- Has the name of the means of attacking. Usually the name of the weapon being used.
+- The bonus to hit with this attack. You can write the number in here, or the formula to calculate the number.
+- The damage dealt on a hit, and the type of damage. Again, a formula or straight number is fine.
+
+Using the formulas means you won't have to remember to update your character sheet when you level up and you get an ability score increase, or your proficiency bonus increases.
+But using the numbers saves you time, so the choice is yours.
+
+Next, you can fill in your armour class (AC) and initiative.
+Your initiative modifier is equal to your dexterity modifier, plus any bonuses you might have from your class or starting gear.
+Your armour class will depend on how you're choosing to equip yourself.
+Pick a type of armour you have available to your character and that you are proficient in, and look at the formula it provides to calculate your armour class.
+Some classes - like Wizards and Sorcerers - don't actually start with any armour proficiencies, in this case your armour class is 10 + DEX plus any other bonuses you might have acquired:
+
+- Using a shield (if you are proficient) gives +2 to your AC.
+- Some magic items, like a _ring of protection_ also give a slight boost to your AC.
+- Some classes, like Barbarians or Monks, have a feature called "unarmoured defence". This provides an alternative means of calculating your AC, which is usually beneficial to those classes.
+
+Whatever the total (or the formula), record it on your character sheet.
+
+### Example: Erik's Attacks and AC
+
+Erik has started out with a pair of shortswords and a longbow.
+He plans to be either dual wielding the swords, or using the bow in a fight.
+He's proficient in all of these weapons thanks to his "martial weapon" proficiency.
+
+- For the longbow attack, he writes "Longbow, + Prof Bonus + DEX to hit, 1d8 + DEX piercing damage". He could also have written "Longbow, + `TODO` to hit, 1d8 + TODO piercing damage".
+- For the sword he wields in his left (main) hand, he writes "Shortsword (main hand), + Prof + DEX to hit, 1d6 + DEX piercing damage".
+- For the sword he wields in his right (off) hand, he writes "Shortsword (off hand), + Prof to hit, 1d6 piercing damage". The rules on dual-wield fighting come into play here which is why the main and off-hand attacks are different.
+
+Erik wears his Scale Mail that he started with, which tells him his AC is "14 + DEX (max 2)", giving him a 16 AC.
+On top of this, his Dual-Wielder feat will add one to this number whenever he is dual-wielding.
+
 ## [Next: Personality, Bonds, and Appearance](./personality-bonds.md)
 
 ## [Prev: Creating Your Background](./background.md)
