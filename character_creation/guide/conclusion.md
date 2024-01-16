@@ -20,6 +20,17 @@ The same applies for your saving throws - the relevant ability modifier is the o
 You can leave these blank if you prefer.
 If you choose to fill them in, don't forget to update them if you later level up and either improve your ability scores, or improve your proficiency bonus.
 
+### Passive Skills
+
+You might have noticed that there are a few "passive skills" listed on your character sheet.
+The standard DnD 5th edition sheet has "passive perception", but newer ones also have "passive insight" and "passive investigation".
+These abilities represent the base level of awareness or ability in a particular skill your character has; passive perception might let you notice a member of a group slip away from the conversation, passive investigation might give you an innate feeling that someone's logic or story isn't holding up, etc.
+In these kinds of situations, the DM might just ask everyone what their passive score is, and see if anyone in the party realises something.
+
+To calculate a "passive skill" score, first work out the your skill modifier for that skill (regular perception for passive perception, insight for passive insight, etc).
+Be sure to include your proficiency bonus in that skill if it applies (and expertise, if you have it too).
+Then, add 10 to that value, and you have your passive score - write it in the appropriate box on your sheet.
+
 ## Inspiration?
 
 We haven't touched on the inspiration box on your character sheet yet, but for now we leave it blank.
