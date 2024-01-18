@@ -1,5 +1,8 @@
 [deployment-site]: https://willgraham01.github.io/ARC-DnD/
 [character-creation]: [deployment-site]/character_creation/index.md
+[character-sheets]: FIXME
+[adventure-log]: FIXME
+[intro-to-ARC-DnD]: FIXME
 
 # [ARC DnD][deployment-site]
 
@@ -13,9 +16,9 @@ Or at least that's the intention!
 We have (or are planning to have):
 
 - [A character creation and levelling up guide.][character-creation]
-- A log of character sheets for easy access.
-- A small introduction to the ARC DnD setting.
-- An adventure log for what's happened so far.
+- [A log of character sheets for easy access.][character-sheets]
+- [A small introduction to the ARC DnD setting.][intro-to-ARC-DnD]
+- [An adventure log for what's happened so far.][adventure-log]
 
 ## Contributing
 
