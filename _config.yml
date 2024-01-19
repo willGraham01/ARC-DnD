@@ -28,8 +28,7 @@ github:
   is_project_page: True
 
 # Build settings
-markdown: kramdown
-mathjax: true # Use $$ for display, \( .. \) for inline
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
