@@ -47,23 +47,24 @@ The value of an ability score dictates your modifier for dice rolls that rely on
 
 $$ \text{ability modifier} = \frac{(\text{ability score} - 10)}{2}, \quad \text{(rounded down)}. $$
 
-An ability score of 10 is deemed average as this gives you a $+0$ modifier - your average-ness does not affect the potential outcome either way.
-Every 2 points above 10 will increase your modifier by 1, so an ability score of 17 will give you a $+3$ modifier - your character's natural affinity for the kind of task you're doing nudges the result towards being better.
-Conversely, every 2 points below 10 will _decrease_ your modifier by 1; so a character with an ability score of 9 will have a $-1$ modifier - they just aren't suited to the kind of task they're trying to do!
+An ability score of 10 is deemed average as this gives you a +0 modifier - your average-ness does not affect the potential outcome either way.
+Every 2 points above 10 will increase your modifier by 1, so an ability score of 17 will give you a +3 modifier - your character's natural affinity for the kind of task you're doing nudges the result towards being better.
+Conversely, every 2 points below 10 will _decrease_ your modifier by 1; so a character with an ability score of 9 will have a -1 modifier - they just aren't suited to the kind of task they're trying to do!
 
-You write your _modifier_ for an ability score in the large box for that particular score ($+1$, $+0$, $-2$, etc).
+You write your _modifier_ for an ability score in the large box for that particular score (+1, +0, -2, etc).
 In the smaller box underneath, you write the raw value of the score (11, 10, 7, etc).
 
 At the start of character creation, you'll determine your ability scores and assign them to your STR, DEX, CON, INT, WIS and CHA in the order you like.
 Most races provide an immediate boost to one or more of these scores at character creation too.
 Most classes depend on one or two ability scores for their primary features, and offer Ability Score Improvements (ASIs) at certain level-ups to help your character improve their power.
+You can use these ASIs to later increase your odd-numbered ability scores to even numbers, for example (as a score of 10 and 11 will give the same modifier of +0, but 12 will give you +1).
 
 ### Skill Proficiencies and Proficiency Bonus
 
 Your ability scores are general measures of how good your character is at things.
 Your _proficiencies_ are the specific skills, tools, languages, weapons, armour, and even vehicles your character has been trained to use (or has otherwise learnt to master).
 
-Your proficiency bonus is based on your character's level and will be between $+2$ and $+6$.
+Your proficiency bonus is based on your character's level and will be between +2 and +6.
 Whenever you level up, you'll check to see if your proficiency bonus increases.
 
 Your skill proficiencies are then recorded in the column.
