@@ -42,6 +42,11 @@ Character Creation Overview:
 7. [Personality and Bonds](./guide/equipment.md)
 8. [Wrap up](./guide/conclusion.md)
 
+## [Levelling Up](./levelling-up.md)
+
+Having a character that's level 1 is great, but eventually they'll start getting stronger!
+[Here's how](./levelling-up.md) to make sure you check all the boxes that are needed when levelling up.
+
 ## [Classes and Races Summary](./classes-and-races-summary.md)
 
 We've [compiled a page](./classes-and-races-summary.md) with a quick reference guide to the various classes and races that are available to players.
