@@ -18,7 +18,13 @@ We might reference some of the core player rules to give context or specific exa
 
 We'll go through each part of the character sheet in sequence, explaining the information that it contains.
 
-![](char-sheet-image-annotated) TODO MAKE ME!!!!!
+Page 1 of the character sheet has a lot of information on it that you'll need at various points throughout your adventures, so you can expand the details below to see how we've broken it down.
+
+<details>
+
+![Annotated page 1 character sheet.](assets/img/char-sheet-pg1-annotated.png)
+
+</details>
 
 ### Character Information
 
