@@ -7,7 +7,7 @@ When creating a character, you record all the information you need about them on
 This sheet (in reality, sheets) is what you bring along to a session when you're playing as that character, and lets you keep track of things like the spells your character has access to, their current hit points (HP), what skills they have, etc.
 
 Character sheets can vary in format, but ultimately all contain the same information.
-For this session, we'll be using the standard 5e template - you can find this [online as a fillable PDF here](TODO:link to fillable char sheet) or you can print out a blank copy and fill it in by hand.
+For this session, we'll be using the standard 5e template - you can find this [online as a fillable PDF here](https://media.wizards.com/2022/dnd/downloads/DnD_5E_CharacterSheet_FormFillable.pdf) or you can print out a blank copy and fill it in by hand.
 We would recommend also keeping a spare sheet of paper / empty text document alongside you during the character creation process too, so you can write down the details of all of your class and racial abilities.
 You'll write these things down on your sheet too, but typically the templates you find online don't have space for both the description of your abilities and how many uses you have for them - an extra sheet of plain paper helps in that regard!
 
