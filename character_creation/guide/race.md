@@ -59,7 +59,9 @@ Erik picks Dwarven for his extra language, and puts that plus Common into his la
 For his extra skill proficiency, he'll choose Animal Handling and check the appropriate skill box on his character sheet.
 For his feat, Erik will take the "Dual Wielder" feat - he writes it's name down in the features and traits box, then copies the text from the feat onto his spare sheet of paper for reference.
 
-For his two +1 increases, Erik puts them into `TODO:FIX ME AFTER ARC INTRO SESSION`!
+For his two +1 increases, Erik puts them into DEX and INT.
+For DEX, this brings him up to an 18 in one of his most important ability scores, which also improves his modifier from +3 to +4.
+For INT, Erik just doesn't want to be rolling with a -1 penalty - other good options would have been either CHA or STR to improve the modifier for either of them.
 
 Humans start with a speed of 30 (ft), which Erik records.
 

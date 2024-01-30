@@ -99,17 +99,16 @@ If you want to take a feat, look through the list in the Player's Handbook and a
 
 ### Example: Erik's Ability Scores
 
-TODO: Fill with ARC standard array values!
+Erik uses the ARC standard array for his ability scores, so he has a 17, 16, 14, 13, 11, and 9 to allocate.
 
-Erik is going to be a melee-focused ranger, so he makes his highest ability score DEX at `<value>`.
-Next, he puts the `<value>` into CON to give himself a bit more survivability.
-He follows this up with `<value>` into WIS since he might still need it for casting spells in a pinch.
-The remaining ability scores of `<VALUES>` he puts into `<X, Y, Z>` respectively:
+Erik is going to be a melee-focused ranger, so he makes his highest ability score DEX at `17`.
+Next, he puts the `16` into CON to give himself a bit more survivability.
+He follows this up with `14` into WIS since he might still need it for casting spells in a pinch.
+The remaining ability scores he puts into the following abilities:
 
-- List of
-- why 
-- this order
-- if any
+- 13 into CHA. This is because it will tie into his background a bit later. STR would be another good option here since he's going to be in melee a lot.
+- 11 into STR. This way he avoids having a negative STR modifier which might be problematic if he's in the thick of a fight.
+- 9 into INT. Neither the Ranger class abilities nor Erik's (planned) background lean heavily on his INT, so this is made the lowest.
 
 ## Record your Class Skills and Abilities
 
@@ -141,7 +140,7 @@ He also picks Perception so he's more alert to danger, and Survival so he can he
 The proficiency bonus for level 1 characters is +2, so Erik writes this into the proficiency bonus box.
 
 The Ranger hit dice is a d10, which Erik records on his character sheet.
-His max HP is calculated as 10 + CON modifier at first level, giving him a total of `TODO:value!` at level 1, which he writes down.
+His max HP is calculated as 10 + CON modifier at first level, giving him a total of 13 at level 1, which he writes down.
 
 Being a Ranger gives Erik proficiency in:
 
@@ -166,7 +165,11 @@ If one of your class features lets you learn a language, write that in the langu
 At level 1, Rangers get two features from their class; Favoured Foe and Deft Explorer.
 
 - Favoured Foe lets Erik do a little extra damage to one enemy in combat, a certain number of times per long rest (long rest is essentially a day). He writes the name of the ability in the "features and traits" section of his character sheet. He also notices that it can be used "a number of times equal to your proficiency bonus before a long rest" - in this case, 2 times per long rest, so he puts two checkboxes next to the ability so he can keep track of them. Finally, he writes the text corresponding to the ability on his spare sheet of paper.
-- Deft Explorer gives Erik _expertise_ in one of his skill proficiencies, as well as fluency in two additional languages of his choice. Erik chooses to put his expertise into Perception, so marks that with a _double tick_ in the appropriate skill checkbox - this indicates that his proficiency bonus is doubled when making a Perception check. Finally, he picks two languages to learn - which he chooses to be Sylvan and Elvish - and writes them into his languages box. Again, he copies Deft Explorer onto his spare sheet of paper for later reference.
+- Deft Explorer gives Erik _expertise_ in one of his skill proficiencies, as well as fluency in two additional languages of his choice. Erik chooses to put his expertise into Perception, so marks that with a _double tick_ in the appropriate skill checkbox (or an "Ex" on the underline) - this indicates that his proficiency bonus is doubled when making a Perception check. Finally, he picks two languages to learn - which he chooses to be Sylvan and Elvish - and writes them into his languages box. Again, he copies Deft Explorer onto his spare sheet of paper for later reference.
+
+Notice that some of your class feature might depend on say your level, your proficiency bonus (like Erik's Favoured Foe) or maybe a certain ability score you have.
+As you level up, it might be necessary to update these features as your bonuses improve.
+If you spot something like this, we'd recommend putting an asterisk (`*`) or other indicator next to the feature, so when you level up you remember to check to see if that feature improves!
 
 ## Pick Spells
 

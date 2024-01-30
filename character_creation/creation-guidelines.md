@@ -24,7 +24,7 @@ Your racial (and origin, if applicable) bonuses are applied as usual on top of t
 The standard array is:
 
 ```bash
-A, B, C, D, E, F
+17, 16, 14, 13, 11, 9
 ```
 
 ## Storing Your Character

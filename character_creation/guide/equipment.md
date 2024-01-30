@@ -90,12 +90,12 @@ Erik has started out with a pair of shortswords and a longbow.
 He plans to be either dual wielding the swords, or using the bow in a fight.
 He's proficient in all of these weapons thanks to his "martial weapon" proficiency.
 
-- For the longbow attack, he writes "Longbow, + Prof Bonus + DEX to hit, 1d8 + DEX piercing damage". He could also have written "Longbow, + `TODO` to hit, 1d8 + TODO piercing damage".
+- For the longbow attack, he writes "Longbow, + Prof Bonus + DEX to hit, 1d8 + DEX piercing damage". He could also have written "Longbow, +6 to hit, 1d8 +4 piercing damage". The +6 is from his DEX modifier being +4 and proficiency bonus being +2.
 - For the sword he wields in his left (main) hand, he writes "Shortsword (main hand), + Prof + DEX to hit, 1d6 + DEX piercing damage".
-- For the sword he wields in his right (off) hand, he writes "Shortsword (off hand), + Prof to hit, 1d6 piercing damage". The rules on dual-wield fighting come into play here which is why the main and off-hand attacks are different.
+- For the sword he wields in his right (off) hand, he writes "Shortsword (off hand), + Prof to hit, 1d6 piercing damage". The rules on dual-wield fighting come into play here which is why the main and off-hand attacks are different - notice Erik doesn't add his DEX modifier to the offhand attack damage!
 
 Erik wears his Scale Mail that he started with, which tells him his AC is "14 + DEX (max 2)", giving him a 16 AC.
-On top of this, his Dual-Wielder feat will add one to this number whenever he is dual-wielding.
+On top of this, his Dual-Wielder feat will add one to this number whenever he is dual-wielding - but Erik will have to remember this once a fight starts!
 
 ## [Next: Personality, Bonds, and Appearance](./personality-bonds.md)
 

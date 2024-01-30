@@ -31,6 +31,8 @@ To calculate a "passive skill" score, first work out the your skill modifier for
 Be sure to include your proficiency bonus in that skill if it applies (and expertise, if you have it too).
 Then, add 10 to that value, and you have your passive score - write it in the appropriate box on your sheet.
 
+In Erik's case, his passive perception is going to be calculated as 10 + WIS modifier + Perception expertise, giving him a total of 10 + 2 + (2*2) = 16.
+
 ## Inspiration?
 
 We haven't touched on the inspiration box on your character sheet yet, but for now we leave it blank.
@@ -40,7 +42,7 @@ It can be "used" to roll an extra d20 whenever you make an ability check, attack
 ## Is it over now?
 
 We're all done!
-If you've followed along with the example and want to check out Erik's (level 1) character sheet, you can [do so here](TODO:FIXME).
+If you've followed along with the example and want to check out Erik's (level 1) character sheet, you can [do so here](/assets/char-sheets/ex-Erik-Wendell-lv1.pdf).
 
 ## [Back to Character Creation Overview](../index.md)
 

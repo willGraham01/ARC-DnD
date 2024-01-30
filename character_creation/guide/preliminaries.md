@@ -22,7 +22,7 @@ Page 1 of the character sheet has a lot of information on it that you'll need at
 
 <details>
 
-![Annotated page 1 character sheet.](assets/img/char-sheet-pg1-annotated.png)
+![Annotated page 1 character sheet.](/assets/img/char-sheet-pg1-annotated.png)
 
 </details>
 

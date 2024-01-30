@@ -33,7 +33,7 @@ There are variations on this as always, but the typical setup is that all your a
 You can spend 1 point to increase an ability score by one, up to a value of 13.
 Increasing an ability score from 13 to 14 costs 2 points, as does 14 to 15, and ability scores cannot go higher than that.
 
-You can find several point-buy calculators online, but [the one here](TODO:fixme) is fairly good.
+You can find several point-buy calculators online, but [the one here](https://chicken-dinner.com/5e/5e-point-buy.html) is fairly good.
 
 ### Rolling for Stats
 
