@@ -13,6 +13,10 @@ Before you get started, you'll need a character sheet template to write to - you
 We tend to write our characters onto paper, and either add these scans directly to the site or translate them into a markdown / json format so they can be imported elsewhere.
 You'll also - ideally - want a copy of the player's handbook for a reference about the various class and race options.
 
+You might want to use something like [DnDBeyond](https://www.dndbeyond.com/) to build your character - they have an interactive character builder you can fill out online and print to PDF.
+Just keep in mind that you need to pay for any of the non-default options, so you won't have as many choices as the player's handbook (and other sources) offer.
+Alternatively, you can ask someone in the group if you can borrow one of the books to build your character.
+
 Due to the wealth of class options available - even at level 1 - we can't go into details about applying your particular class traits or features to your character sheet.
 But a good idea is to write all of your class and race features that don't fall under one of the nice categories on the character sheet on a separate sheet of paper, and bring that along with you when you play.
 That way, you'll have everything you need in one place when you turn up to play!

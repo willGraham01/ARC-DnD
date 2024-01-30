@@ -40,14 +40,14 @@ Overall, it shouldn't matter too much as rolling will average out over the perio
 
 ### Example: Erik's HP
 
-Erik's HP currently sits at TODO, the starting amount provided by his Ranger class plus is CON modifier.
+Erik's HP currently sits at 13, the starting amount provided by his Ranger class plus is CON modifier.
 The Ranger hit dice is a d10, and Erik is gaining two levels so he rolls twice:
 
-- The first is TODO + CON mod = TODO,
-- The second is TODO + CON mod = TODO,
+- The first is 4 + CON mod = 7, slightly below average but that's what happens sometimes.
+- The second is 9 + CON mod = 12, which helps to offset the balance there!
 
-for a total of TODO extra hit points.
-He adds that to his current maximum for a total of TODO.
+for a total of 19 extra hit points.
+He adds that to his current maximum for a total of 32.
 
 ## Increase your Number of Hit Die
 
@@ -98,15 +98,16 @@ When this happens, don't forget to increase the values (if you're using values o
 
 At level 2, Rangers get to pick a Fighting Style feature.
 Erik opts to go with Two-Weapon Fighting as his style, since this suits his current setup.
-As a result, his "Shortsword (off hand)" attack receives an update: he now adds his ability modifier to the damage it does, so it goes from "1d6 slashing damage" to "1d6 + DEX slashing damage".
+As a result, his "Shortsword (off hand)" attack receives an update: he now adds his ability modifier to the damage it does, so it goes from "1d6 piercing damage" to "1d6 + DEX piercing damage".
+Since this is now the same as his main hand, he just removes one of the entries and makes a note that both hands are the same.
 He also writes his chosen fighting style into his features and traits column, and copies it onto his spare sheet of paper.
 
 In addition, at level 2 Rangers get access to spellcasting, so Erik heads over to that page of his character sheet.
 Rangers are told that their spellcasting ability is Wisdom, which he records.
 He then calculates his spell attack bonus and spell save DC using the formulae provided by the Ranger class:
 
-- Spell attack modifier: proficiency bonus + WIS. In Erik's case, this comes to TODO, and he writes "spell attack modifier" in his list of attacks for a quick reference should he need it.
-- Spell save DC: 8 + proficiency bonus + WIS. In Erik's case, this comes to TODO.
+- Spell attack modifier: proficiency bonus + WIS. In Erik's case, this comes to 4: proficiency bonus of +2, and a WIS modifier of +2. He writes "spell attack modifier" in his list of attacks for a quick reference should he need it.
+- Spell save DC: 8 + proficiency bonus + WIS. In Erik's case, this comes to 12.
 
 He then looks at the table for Rangers and spellcasting - at level 2, he knows two spells and has 2 first level spell slots.
 He marks the spell slots down on his character sheet, and chooses the following spells to learn:
@@ -132,7 +133,7 @@ He then copies the features that this subclass gives him into his features and t
 - At level 3, being a Fey Wanderer gives him the "Dreadful Strikes" ability.
 - It also gives him the Fey Magic ability, which (like Primal Awareness) lets him learn additional spells at certain levels, for free. He copies the spells that he gets at this level into the spells section.
 - "Otherworldly Glamour" is another ability that Erik gets at this level, which he records in his features and traits box. This ability first gives him proficiency in either Deception, Performance, or Persuasion (his choice). He already has proficiency in persuasion, so he picks Deception and checks the skill box for it on his character sheet. This ability also says that "whenever he makes a CHA check, he adds his WIS modifier to the dice roll". As such, he changes the formulae for his persuasion, deception, performance, and intimidation skills from "+ proficiency bonus (if proficient) + CHA" to "+ proficiency bonus (if proficient) + CHA + WIS".
-- Lastly, Erik's subclass also gives him an appearance change, which is for storytelling flavour. Whilst technically a feature, Erik writes this cosmetic change into his appearance and background section. He now has fresh flowers growing out of his hair every morning.
+- Lastly, Erik's subclass also gives him an appearance change, which is for storytelling flavour. Whilst technically a feature, Erik also writes this cosmetic change into his appearance and background section. He now has fresh flowers growing out of his hair every morning.
 
 Note that Erik picked "Fey Wanderer" largely because of his backstory which involved Fey influence in his past.
 
@@ -140,6 +141,6 @@ Finally, at level 3 Erik also learns a new spell of his choice, goes from 2 firs
 Erik decides to learn Detect Magic, adding it to his list of spells.
 He also decides to trade out Hunter's Mark for Entangle, swapping the one out for each other.
 
-And with that, Erik is now level 3 and ready to go!
-You can see his level 3 [character sheet here](TODO:FIXME).
-
+That's everything new that Erik gets in his levelling up.
+He also double checks whether his proficiency bonus has increased, or any of his older features have improved with these level ups, but neither has happened so that's everything to be done - Erik is now level 3 and ready to go!
+You can see his level 3 [character sheet here](/assets/char-sheets/ex-Erik-Wendell-lv3.pdf).
